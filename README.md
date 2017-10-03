@@ -2,7 +2,7 @@
 
 **Software Engineer III**, Cisco Systems
 
-Period Jun 2015 – Present
+Jun 2015 – Present
 
 SPNAC **Technologies** – _Go, InfluxDB, Kapacitor, Docker_
 
@@ -15,7 +15,7 @@ Telemetry **Technologies** – _C, Python._
 
 **Java Developer**, Kavi Associates
 
-Period Jun 2013 – Jun 2015
+Jun 2013 – Jun 2015
 
 Locomotive Road Failure Prediction **Technologies** – _Cloudera, SpringMVC, Hibernate, Spark, SAS_
 
@@ -28,7 +28,7 @@ Pretium **Technologies** - _Java, Python, Scala, Spring MVC, Ajax, Hibernate, Hi
 
 **Full-Stack Developer** ,XL Academics **Technologies** - _php, mysql, amcharts_
 
-Period Feb 2012 – May 2013
+Feb 2012 – May 2013
 
 - Implemented messaging system, financial manager and spend analyzer to allow users to create budget, create savings goals, track expenses and visualizations.
 
@@ -36,11 +36,11 @@ Period Feb 2012 – May 2013
 
 - MS in Computer Science - **Northern Illinois University** (GPA – 4.0/4.0)
 
-Period May 2013
+May 2013
 
 - Bachelor of Engineering - **JNTU Kakinada**, **India** (GPA – 3.6/4.0)
 
-Period April 2011
+April 2011
 
 ## Technical Skills
 
