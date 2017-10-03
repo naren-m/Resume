@@ -32,7 +32,7 @@ Feb 2012 – May 2013
 
 - Implemented messaging system, financial manager and spend analyzer to allow users to create budget, create savings goals, track expenses and visualizations.
 
-**Education**
+## Education
 
 - MS in Computer Science - **Northern Illinois University** (GPA – 4.0/4.0)
 
