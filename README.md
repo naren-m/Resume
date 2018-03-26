@@ -45,11 +45,8 @@ April 2011
 ## Technical Skills
 
 - Languages:                 C, Go, python, Java, Objective-C, SQL, PHP, JQuery
-
 - Databases:                 MySQL, PostgreSQL, InfluxDB, Prometheus.
-
 - ML/ DL Frameworks:        Tensorflow, tflearn, keras, scikit-learn.
-
 - Key Areas:                 Data Structures and Algorithms, Linux, Neural Networks, Deep Learning
 - Cloud Technologies:         Docker, AWS(EC2), Google cloud platform.
 
