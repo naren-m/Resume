@@ -4,6 +4,9 @@
 
 Jun 2015 – Present
 
+Zero Touch Provisioning **Technologies** - _Python, shell_
+- Automates the process of provisioning the routers with Day 0 configurations, redusing the operational costs.
+
 SPNAC **Technologies** – _Go, InfluxDB, Kapacitor, Docker_
 
 - Closed-loop Network automation using telemetry data from switches.
