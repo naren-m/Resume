@@ -4,7 +4,7 @@
 
 Oct 2021 – Present
 
-Manageability Service **Technologies** – Go, gRPC, Python, C
+Manageability Service **Technologies** – _Go, gRPC, Python, C_
 
 - Architected and implemented secure device management features using industry-standard gRPC technologies (gNMI, gNOI, gNSI), enhancing operational efficiency and security.
 - Led design and development of critical Cisco Manageability services, including:
