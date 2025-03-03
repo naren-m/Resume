@@ -1,6 +1,5 @@
 ## Experience
 
-
 **Technical Leader I, Cisco Systems**
 
 Oct 2021 – Present
@@ -21,6 +20,7 @@ Manageability Service **Technologies** – Go, gRPC, Python, C
 Jun 2015 – Present
 
 Zero Touch Provisioning **Technologies** - _Python, shell_
+
 - Automates the process of provisioning the routers with Day 0 configurations, reducing the operational costs.
 
 SPNAC **Technologies** – _Go, InfluxDB, Kapacitor, Docker_
