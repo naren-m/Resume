@@ -1,5 +1,21 @@
 ## Experience
 
+
+**Technical Leader I, Cisco Systems**
+
+Oct 2021 – Present
+
+Manageability Service **Technologies** – Go, gRPC, Python, C
+
+- Architected and implemented secure device management features using industry-standard gRPC technologies (gNMI, gNOI, gNSI), enhancing operational efficiency and security.
+- Led design and development of critical Cisco Manageability services, including:
+  - Access Control Layer (ACL) implementation utilizing AuthZ and gNSI Authz services for comprehensive policy management
+  - SPIFFE-based authentication and authorization framework, elevating security posture
+  - Key architect and primary point of contact for multiple gNSI services including CertZ, CredentialZ, and BootZ
+  - Successfully implemented BootConfig gNOI service to streamline device initialization
+- Developed scalable services enabling seamless device management throughout the entire lifecycle (Day 0 to Day N), facilitating efficient transitions between multiple operational teams
+- Optimized MGBL services for horizontal scalability and reliability, successfully increasing service availability to 99% uptime
+
 **Software Engineer III**, Cisco Systems
 
 Jun 2015 – Present
